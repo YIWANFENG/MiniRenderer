@@ -1,0 +1,9 @@
+
+
+main.cpp 设置一些相关参数
+
+render.cpp  定义主要功能以及相关数据结构
+
+ParseJson.cpp	解析Json格式的3D模型等
+
+以下为Json解析库支持
