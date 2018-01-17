@@ -1,11 +1,11 @@
 
 
+
 主要
-main.cpp 设置一些相关参数加主控
-render.cpp  定义主要功能以及相关数据结构
-ParseJson.cpp	解析Json格式的3D模型等
+main.cpp 		设置一些相关参数加主控
+render.cpp  		定义主要功能以及相关数据结构
+ParseJson.cpp		解析Json格式的3D模型等
+
+
 
 其他全为Json解析库支持。
-
-文件虽多，但其实很多是Json库源文件，这里没用静态或者动态库的原因是你我都不想装配，
-那么为何加载图片用了opencv3呢？因为我早就装好了啊。
