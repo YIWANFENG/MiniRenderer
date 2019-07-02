@@ -1,11 +1,12 @@
 
 
 
-��Ҫ
-main.cpp 		����һЩ��ز���������
-render.cpp  		������Ҫ�����Լ�������ݽṹ
-ParseJson.cpp		����Json��ʽ��3Dģ�͵�
+主要
+main.cpp 		设置一些相关参数加主控
+render.cpp  		定义主要功能以及相关数据结构
+ParseJson.cpp		解析Json格式的3D模型等
 
 
 
-����ȫΪJson������֧�֡�
+其他全为Json解析库支持。
+建议配合Blog:https://blog.csdn.net/hffhjh111/article/details/79076042 食用。
